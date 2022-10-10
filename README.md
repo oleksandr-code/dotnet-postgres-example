@@ -3,7 +3,7 @@ Example .NET Core 3.1 project with xUnit and connection to PostgreSQL database.
 
 ## Requirements:
 - PostgreSQL database
-- .NET Core 3.5 SDK
+- .NET Core 3.8 SDK
 
 ## Start example database
 **Use this _only_ if you don't have existing PostgreSQL database.**
